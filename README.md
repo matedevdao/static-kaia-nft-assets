@@ -1,1 +1,1 @@
-# static-nft-assets
+# static-kaia-nft-assets
